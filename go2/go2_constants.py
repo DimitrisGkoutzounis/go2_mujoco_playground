@@ -20,7 +20,7 @@ from mujoco_playground._src import mjx_env
 
 ROOT_PATH = mjx_env.ROOT_PATH / "locomotion" / "go2"
 FEET_ONLY_FLAT_TERRAIN_XML = (
-    ROOT_PATH / "xmls" / "go2_scene.xml"
+    ROOT_PATH / "xmls" / "go2_scene_mjx_feetonly_flat_terrain.xml" #replace with go2_scene.xml if things go bad
 )
 FEET_ONLY_ROUGH_TERRAIN_XML = (
     ROOT_PATH / "xmls" / "scene_mjx_feetonly_rough_terrain.xml"
