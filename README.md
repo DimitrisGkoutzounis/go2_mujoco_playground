@@ -28,7 +28,7 @@ Now, clone the Go2 Mujoco Playground repository into the locomotion directory:
 ```bash
 git clone https://github.com/DimitrisGkoutzounis/go2_mujoco_playground.git
 ```
-**Note:** Move the executables in the experimenta/sim2/sim directory and keep the go2 folder, under the locomotion folder.
+**Note:** Move the executables in the experiments/sim2sim directory and keep the go2 folder, under the locomotion folder.
 
 ### 4. Install the Go2 module
 
